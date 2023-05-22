@@ -17,7 +17,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/spf13/viper/internal/testutil"
+	"github.com/taksenov/wormer/internal/testutil"
 )
 
 func TestCopyAndInsensitiviseMap(t *testing.T) {

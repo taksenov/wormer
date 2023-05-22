@@ -1,4 +1,4 @@
-module github.com/spf13/viper
+module github.com/taksenov/wormer
 
 go 1.17
 
